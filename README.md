@@ -86,8 +86,8 @@ Music streaming UI built with HTML, JS & Tailwind.
 
 ## 📬 How To Reach Me
 📧 **Email:** dileeppatrapalli@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/YOUR_NEW_USERNAME  
-🔗 **GitHub:** https://github.com/YOUR_NEW_USERNAME
+🔗 **LinkedIn:** https://linkedin.com/in/dileeppatrapalli 
+🔗 **GitHub:** https://github.com/dileeppatrapalli
 
 ---
 
