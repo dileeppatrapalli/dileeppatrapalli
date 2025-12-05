@@ -8,12 +8,6 @@ I'm a Civil Engineering graduate turned Software Developer, skilled in the **MER
 
 ---
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dillu)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:dileeppatrapalli@gmail.com)
-
----
-
 ## 🛠️ Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -86,7 +80,7 @@ Music streaming UI built with HTML, JS & Tailwind.
 
 ## 📬 How To Reach Me
 📧 **Email:** dileeppatrapalli@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/dileeppatrapalli 
+🔗 **LinkedIn:** https://linkedin.com/in/dillu
 🔗 **GitHub:** https://github.com/dileeppatrapalli
 
 ---
