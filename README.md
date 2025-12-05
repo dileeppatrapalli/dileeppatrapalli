@@ -9,7 +9,7 @@ I'm a Civil Engineering graduate turned Software Developer, skilled in the **MER
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_NEW_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dillu)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:dileeppatrapalli@gmail.com)
 
 ---
