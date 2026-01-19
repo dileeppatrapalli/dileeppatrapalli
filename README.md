@@ -39,16 +39,8 @@ I'm a Civil Engineering graduate turned Software Developer, skilled in the **MER
 Full MERN shopping app with JWT authentication, cart, and payments.  
 🔗 *Live Demo* | 💻 *Code*
 
-### 📚 **Bookstore Website**
-Role-based auth, Prisma ORM, PostgreSQL, book rental system.  
-🔗 *Live Demo* | 💻 *Code*
-
 ### 🏡 **Airbnb Clone**
 Property rental app with listings, bookings, search & authentication.  
-🔗 *Live Demo* | 💻 *Code*
-
-### 🎵 **Spotify Clone**
-Music streaming UI built with HTML, JS & Tailwind.  
 🔗 *Live Demo* | 💻 *Code*
 
 ---
