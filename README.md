@@ -37,11 +37,12 @@ I'm a Civil Engineering graduate turned Software Developer, skilled in the **MER
 
 ### 🛒 **E-Commerce Website**
 Full MERN shopping app with JWT authentication, cart, and payments.  
-🔗 *Live Demo* | 💻 *Code*
 
 ### 🏡 **Airbnb Clone**
-Property rental app with listings, bookings, search & authentication.  
-🔗 *Live Demo* | 💻 *Code*
+Property rental app with listings, bookings, search & authentication.
+
+### 🔗 **TinyLink URL Shortener**  
+A simple and efficient tool to shorten long URLs with custom aliases.  
 
 ---
 
